@@ -34,7 +34,7 @@
 nav {
   position: fixed;
   top: 0;
-  z-index: 2;
+  z-index: 35;
   width: 100%;
   background: #fff;
   padding: 20px 60px;
@@ -567,11 +567,10 @@ img{
   float: right;
   color: rgb(241, 57, 105);
   font-weight: bold;
-  font-size: 1.4vw;
+  font-size: 75px;
   margin-top: -47%;
-  margin-right: 15%;
+  margin-right: 12%;
   width: 25%;
-  text-align: center;
 }
 
 .app_btn{
@@ -639,8 +638,8 @@ img{
   margin-top: 25px;
 }
 .mockup{
-  width: 28rem;
-  height: 33rem;
+  width: 446px;
+  height: 33px;
   position: relative;
   top: 30px;
 }
@@ -651,7 +650,7 @@ img{
 .mockup_m {
   position: absolute;
   right: -30px;
-  bottom: 50px;
+  bottom: -340px;
 }
 .mockup .mobile {
   width: 136px;
@@ -661,7 +660,7 @@ img{
 .mockup a.hidden_m {
   display: block;
   width: 121px;
-  height: 246px;
+  height: 257px;
   position: absolute;
   right: 8px;
   top: 6px;
@@ -691,19 +690,19 @@ img{
 }
 
 .mockup_tab .tablet {
-  left: -155px;
-  height: 305px;
-  width: 340px;
+  left: -96px;
+  height: 265px;
+  width: 280px;
   position: relative;
-  bottom: -166px;
+  bottom: -115px;
 }
 .mockup_tab .hidden_tab {
   display: block;
-  width: 263px;
-  height: 237px;
+  width: 220px;
+  height: 205px;
   position: absolute;
-  left: -19%;
-  bottom: 89px;
+  left: -38px;
+  bottom: -318px;
   overflow: hidden;
   z-index: 1;
   border-radius: 2px;
