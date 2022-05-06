@@ -730,7 +730,7 @@ img{
   height: 770px;
   border-radius: 30px;
   overflow: hidden;
-  background: url(/images/phone_mockup.png) center center / 100% 100% no-repeat;
+  background: url(../images/phone_mockup.png) center center / 100% 100% no-repeat;
   left: 30px;
 
 }
